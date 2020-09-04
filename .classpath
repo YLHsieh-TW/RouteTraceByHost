@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="ExtLib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="ExtLib/j2ssh-core.jar"/>
+	<classpathentry kind="lib" path="ExtLib/jsch-0.1.50.jar"/>
+	<classpathentry kind="lib" path="ExtLib/ipaddress-5.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

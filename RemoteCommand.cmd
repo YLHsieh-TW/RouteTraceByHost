@@ -1,0 +1,1 @@
+cmd /K "java -jar run.jar"
